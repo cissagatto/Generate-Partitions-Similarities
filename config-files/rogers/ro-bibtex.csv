@@ -1,9 +1,0 @@
-Config, Value
-Dataset_Path, /home/biomal/Datasets
-Temporary_Path, /dev/shm/ro-bibtex
-Similarity_Path, ~/Generate-Partitions-Similarities/Similarity-Matrices/rogers
-Similarity, rogers
-Dataset_Name, bibtex
-Number_Dataset, 6
-Number_Folds, 10
-Number_Cores, 1
