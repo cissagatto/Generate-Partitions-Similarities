@@ -1,0 +1,9 @@
+Config, Value
+Dataset_Path, /home/biomal/Datasets
+Temporary_Path, /dev/shm/ro-nuswide_BoW
+Similarity_Path, ~/Generate-Partitions-Similarities/Similarity-Matrices/rogers
+Similarity, rogers
+Dataset_Name, nuswide_BoW
+Number_Dataset, 50
+Number_Folds, 10
+Number_Cores, 1

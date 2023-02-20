@@ -1,0 +1,9 @@
+Config, Value
+Dataset_Path, /home/biomal/Datasets
+Temporary_Path, /dev/shm/ro-Wiki10-31K
+Similarity_Path, ~/Generate-Partitions-Similarities/Similarity-Matrices/rogers
+Similarity, rogers
+Dataset_Name, Wiki10-31K
+Number_Dataset, 77
+Number_Folds, 10
+Number_Cores, 1

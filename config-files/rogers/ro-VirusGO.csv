@@ -1,0 +1,9 @@
+Config, Value
+Dataset_Path, /home/biomal/Datasets
+Temporary_Path, /dev/shm/ro-VirusGO
+Similarity_Path, ~/Generate-Partitions-Similarities/Similarity-Matrices/rogers
+Similarity, rogers
+Dataset_Name, VirusGO
+Number_Dataset, 74
+Number_Folds, 10
+Number_Cores, 1
